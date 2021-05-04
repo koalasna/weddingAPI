@@ -1,0 +1,65 @@
+{
+    "guests": [
+        {
+            "id": 0,
+            "password": "oops",
+            "fname": "Britney",
+            "lname": "Spears",
+            "msg": null
+            
+        },
+        {
+            "id": 1,
+            "password": "hugo",
+            "fname": "mr. Hugo",
+            "lname": "Boss",
+            "msg": null
+        },
+        {
+            "id": 2,
+            "password": "carmen",
+            "fname": "Frida",
+            "lname": "Kahlo",
+            "msg": null
+        },
+        {
+            "id": 3,
+            "password": "sansa",
+            "fname": "Jon",
+            "lname": "Snow",
+            "msg": null
+        },
+        {
+            "id": 4,
+            "password": "aikuinen",
+            "fname": "Paula",
+            "lname": "Koivuniemi",
+            "msg": null
+        },
+        {
+            "id": 5,
+            "password": "code",
+            "fname": "Ada",
+            "lname": "Lovelace",
+            "msg": null
+        },
+        {
+            "id": 6,
+            "password": "presidentti",
+            "fname": "Sauli",
+            "lname": "Niinistö",
+            "a_fname": "Jenni",
+            "a_lname": "Haukio",
+            "msg": null
+        },
+        {
+            "id": 7,
+            "password": "pewds",
+            "fname": "Felix",
+            "lname": "Kjellberg",
+            "a_fname": "Marzia",
+            "a_lname": "Kjellberg",
+            "msg": null
+        }
+    ]
+}
